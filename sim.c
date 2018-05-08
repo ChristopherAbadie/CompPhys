@@ -5,7 +5,7 @@
 /* Output Files:
 	dist.out - counts the density of the cars every TStep
 	time.out - counts how many cars finish a lap every TStep
-/*
+*/
 
 #include <iostream>
 #include <iomanip>
